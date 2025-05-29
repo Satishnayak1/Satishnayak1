@@ -2,7 +2,7 @@
   <img src="https://github.com/manishrnl/manishrnl/blob/main/banner.gif" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Satish Nayak</h1>
 <h3 align="center">A passionate Software Developer from India, currently diving deep into **Spring Boot** and **JavaFX**</h3>
 
 <p align="center">
