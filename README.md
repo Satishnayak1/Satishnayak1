@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Satish Nayak</h1>
-<h3 align="center">A passionate Software Developer from India, currently diving deep into **Spring Boot** and **JavaFX**</h3>
+<p align="center"><Strong>A passionate Software Developer from India, currently diving deep into Spring Boot and JavaFX</Strong></p>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt1NmFlMGYxemRkZHZpejJ1em5zbmp2bm9ja3U5Zm81MDhmNTVkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Coding GIF" />
@@ -19,9 +19,9 @@
 
 - 🔭 I’m currently working on **Spring Boot Projects**
 - 🌱 I’m learning **Spring Boot** and **JavaFX**
-- 👨‍💻 All my projects are available on my [**Portfolio Website**](https://manishrnl.netlify.app/)
+- 👨‍💻 All my projects are available on my [**Github Website**](https://github.com/Satishnayak1)
 - 💬 Ask me about **Java**, **Spring Boot**, or anything coding-related!
-- 📫 Reach me at **manishrajrnl@gmail.com**
+- 📫 Reach me at **satishnayak4l@gmail.com**
 
 ---
 
